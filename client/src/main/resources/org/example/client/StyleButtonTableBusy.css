@@ -1,0 +1,8 @@
+.busy{
+    -fx-border-color:black;
+    -fx-text-fill: white;
+    -fx-font-size: 24, Regular;
+    -fx-background-color: red;
+    -fx-border-radius: 100;
+    -fx-background-radius: 100;
+}
